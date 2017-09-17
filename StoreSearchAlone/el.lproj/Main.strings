@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "$9.99"; ObjectID = "0Eh-2Q-fev"; */
+"0Eh-2Q-fev.normalTitle" = "$9.99";
+
+/* Class = "UILabel"; text = "Genre Value"; ObjectID = "6XN-Zq-0UK"; */
+"6XN-Zq-0UK.text" = "Genre Value";
+
+/* Class = "UISegmentedControl"; Cub-BI-qqW.segmentTitles[0] = "All"; ObjectID = "Cub-BI-qqW"; */
+"Cub-BI-qqW.segmentTitles[0]" = "Ολα";
+
+/* Class = "UISegmentedControl"; Cub-BI-qqW.segmentTitles[1] = "Music"; ObjectID = "Cub-BI-qqW"; */
+"Cub-BI-qqW.segmentTitles[1]" = "Μουσική";
+
+/* Class = "UISegmentedControl"; Cub-BI-qqW.segmentTitles[2] = "Software"; ObjectID = "Cub-BI-qqW"; */
+"Cub-BI-qqW.segmentTitles[2]" = "πρόγραμμα";
+
+/* Class = "UISegmentedControl"; Cub-BI-qqW.segmentTitles[3] = "E-books"; ObjectID = "Cub-BI-qqW"; */
+"Cub-BI-qqW.segmentTitles[3]" = "E-books";
+
+/* Class = "UISearchBar"; placeholder = "App name, artist, song, album, e-book"; ObjectID = "HfK-bU-Ibz"; */
+"HfK-bU-Ibz.placeholder" = "ονομα αρχειου για ευρεση";
+
+/* Class = "UILabel"; text = "Kind Value"; ObjectID = "IdK-Og-5lF"; */
+"IdK-Og-5lF.text" = "Kind Value";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "RoO-d5-mUR"; */
+"RoO-d5-mUR.text" = "όνομα";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "YpY-Zu-CS3"; */
+"YpY-Zu-CS3.text" = "τύπος:";
+
+/* Class = "UILabel"; text = "Genre:"; ObjectID = "rhw-4s-Fj0"; */
+"rhw-4s-Fj0.text" = "είδος:";
+
+/* Class = "UILabel"; text = "ArtistName"; ObjectID = "rwK-Ic-OUf"; */
+"rwK-Ic-OUf.text" = "όνομα καλλιτέχνη";
